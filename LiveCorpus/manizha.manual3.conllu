@@ -144,7 +144,7 @@
 141	этот	этот	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@isy1984f#@isy1984f#348.896#349.177
 142	национализм	национализм	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@isy1984f#@isy1984f#349.177#349.458
 143	//	//	PUNCT	_	_	_	_	_	words@isy1984f#@isy1984f#349.458#349.74
-144	мгм	мгм	INTJ	_ _	_	_	_	words@isy1984f#@isy1984f#370.676#370.807
+144	мгм	мгм	INTJ	_	_	_	_	_	words@isy1984f#@isy1984f#370.676#370.807
 145	//	//	PUNCT	_	_	_	_	_	words@isy1984f#@isy1984f#370.807#370.939
 146	а	а	CCONJ	_	_	_	_	_	words@isy1984f#@isy1984f#376.289#376.453
 147	что	что	PRON	_	Case=Acc	_	_	_	words@isy1984f#@isy1984f#376.453#376.617
