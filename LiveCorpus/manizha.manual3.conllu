@@ -258,7 +258,7 @@
 255	как	как	ADV	_	Degree=Pos	_	_	_	words@mhd1991f#@mhd1991f#25.632#25.923
 256	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	_	_	_	words@mhd1991f#@mhd1991f#25.923#26.214
 257	/	/	PUNCT	_	_	_	_	_	words@mhd1991f#@mhd1991f#26.214#26.505
-258	мм мм INTJ _ _ _ _ _ words@mhd1991f#@mhd1991f#26.505#26.796
+258	мм	мм	INTJ	_	_	_	_	_	words@mhd1991f#@mhd1991f#26.505#26.796
 259	сборник	сборник	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@mhd1991f#@mhd1991f#26.796#27.087
 260	твоих	твой	DET	_	Case=Gen|Number=Plur	_	_	_	words@mhd1991f#@mhd1991f#27.087#27.378
 261	стихотворений	стихотворение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	_	_	_	words@mhd1991f#@mhd1991f#27.378#27.669
@@ -345,8 +345,8 @@
 342	не	не	PART	_	_	_	_	_	words@mhd1991f#@mhd1991f#55.457#55.638
 343	выдержит	выдержать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	words@mhd1991f#@mhd1991f#55.638#55.819
 344	организм	организм	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@mhd1991f#@mhd1991f#55.819#56
-345	к...	к...	X	_ _	_	_	_	words@mhd1991f#@mhd1991f#56#56.181
-346	ч...	ч...	X _ _	_	_	_	words@mhd1991f#@mhd1991f#56.181#56.362
+345	к...	к...	X	_	_	_	_	_	words@mhd1991f#@mhd1991f#56#56.181
+346	ч...	ч...	X	_	_	_	_	_	words@mhd1991f#@mhd1991f#56.181#56.362
 347	ну	ну	PART	_	_	_	_	_	words@mhd1991f#@mhd1991f#56.362#56.543
 348	как-то	как-то	ADV	_	Degree=Pos	_	_	_	words@mhd1991f#@mhd1991f#56.543#56.724
 349	так	так	ADV	_	Degree=Pos	_	_	_	words@mhd1991f#@mhd1991f#56.724#56.905
@@ -382,7 +382,7 @@
 379	/	/	PUNCT	_	_	_	_	_	words@mhd1991f#@mhd1991f#66.023#66.277
 380	вот	вот	PART	_	_	_	_	_	words@mhd1991f#@mhd1991f#66.277#66.531
 381	//	//	PUNCT	_	_	_	_	_	words@mhd1991f#@mhd1991f#66.531#66.812
-382	аам	аам	INTJ _ _ _ _ words@mhd1991f#@mhd1991f#66.92#67.24
+382	аам	аам	INTJ	_	_	_	_	_	words@mhd1991f#@mhd1991f#66.92#67.24
 383	ещё	еще	ADV	_	Degree=Pos	_	_	_	words@mhd1991f#@mhd1991f#67.24#67.56
 384	совсем	совсем	ADV	_	Degree=Pos	_	_	_	words@mhd1991f#@mhd1991f#67.56#67.88
 385	маленький	маленький	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	words@mhd1991f#@mhd1991f#67.88#68.2
@@ -447,7 +447,7 @@
 444	случилось	случиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	words@mhd1991f#@mhd1991f#85.165#85.418
 445	аа	аа	INTJ	_	_	_	_	_	words@mhd1991f#@mhd1991f#85.418#85.671
 446	/	/	PUNCT	_	_	_	_	_	words@mhd1991f#@mhd1991f#85.671#85.924
-447	#смеётся#	#смеётся#	X _ _	_	_	_	words@mhd1991f#@mhd1991f#85.924#86.177
+447	#смеётся#	#смеётся#	X	_	_	_	_	_	words@mhd1991f#@mhd1991f#85.924#86.177
 448	//	//	PUNCT	_	_	_	_	_	words@mhd1991f#@mhd1991f#86.177#86.43
 449	как	как	SCONJ	_	_	_	_	_	words@mhd1991f#@mhd1991f#86.449#86.777
 450	сказал	сказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@mhd1991f#@mhd1991f#86.777#87.105
@@ -525,7 +525,7 @@
 522	/	/	PUNCT	_	_	_	_	_	words@mhd1991f#@mhd1991f#109.201#109.465
 523	и	и	CCONJ	_	_	_	_	_	words@mhd1991f#@mhd1991f#109.465#109.729
 524	/	/	PUNCT	_	_	_	_	_	words@mhd1991f#@mhd1991f#109.729#109.993
-525	аа аа INTJ _ _ _ _ _ words@mhd1991f#@mhd1991f#109.993#110.257
+525	аа	аа	INTJ	_	_	_	_	_	words@mhd1991f#@mhd1991f#109.993#110.257
 526	//	//	PUNCT	_	_	_	_	_	words@mhd1991f#@mhd1991f#110.257#110.524
 527	вышел	выйти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@mhd1991f#@mhd1991f#110.531#110.863
 528	такой	такой	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@mhd1991f#@mhd1991f#110.863#111.195
@@ -971,7 +971,7 @@
 968	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@mhd1991f#@mhd1991f#260.526#260.814
 969	помню	помнить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@mhd1991f#@mhd1991f#260.814#261.102
 970	что	что	SCONJ	_	_	_	_	_	words@mhd1991f#@mhd1991f#261.102#261.39
-971	бац	бац	INTJ _ _ _ _ _ words@mhd1991f#@mhd1991f#261.39#261.678
+971	бац	бац	INTJ	_	_	_	_	_	words@mhd1991f#@mhd1991f#261.39#261.678
 972	/	/	PUNCT	_	_	_	_	_	words@mhd1991f#@mhd1991f#261.678#261.966
 973	Москва	Москва	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@mhd1991f#@mhd1991f#261.966#262.254
 974	/	/	PUNCT	_	_	_	_	_	words@mhd1991f#@mhd1991f#262.254#262.542
