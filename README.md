@@ -1,3 +1,3 @@
 # lingdata
 
-Завёл страницу курса по ПиЛД, наелся и пошёл спать.
+The LiveCorpus folder contains a snapshot of peer-reviewed mark-up files for HSE Student Corpus.
